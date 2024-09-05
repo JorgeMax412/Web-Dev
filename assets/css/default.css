@@ -18,6 +18,8 @@
     position: relative;
 }
 
+
+
 .nav-link:hover, .nav-link.active{
     color: #000;
 }
